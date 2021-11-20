@@ -25,7 +25,7 @@ def Now_time():
 with open("config.json","r") as f:
     params = json.load(f)["params"]
 
-user_login = user("login",1)
+user_login = user("login",0)
 
 client = pymongo.MongoClient(params["mongo_address"])
     
