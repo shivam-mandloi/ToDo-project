@@ -200,4 +200,4 @@ def cheack_username():
     return render_template("email.html",msg=params["default_msg_email"])
 
 if "__main__" == __name__:
-    app.run(debug=True)
+    app.run()
