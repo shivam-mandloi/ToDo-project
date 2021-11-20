@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "title":"ToDo",
+       "mongo_address":"mongodb://localhost:27017/",
+       "database_name":"ToDo",
+       "email_id":"",
+       "email_password":"",
+       "msg_user_wrong_pas":"password is wrong",
+       "msg_user_wrong_username":"username is wrong",
+       "default_msg_email":"Enter your email for the Otp varification.",
+       "otp_is_wrong":"otp is wrong please enter again your email id"
+    }
+}
