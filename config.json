@@ -8,7 +8,7 @@
        "email_password":"",
        "msg_user_wrong_pas":"password is wrong",
        "msg_user_wrong_username":"username is wrong",
-       "default_msg_email":"Enter your email for the Otp varification.",
+       "default_msg_email":"Enter your email for the 'Otp' verification.",
        "otp_is_wrong":"otp is wrong please enter again your email id"
     }
 }
